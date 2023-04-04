@@ -2,7 +2,9 @@
 
 ## Description ⛰ 
 
-This repository contains a Rest Api - Backend of the Esitietolomake-Luna Mama web application, which connects to the database using cloud services.
+This repository contains a Rest Api - Backend of the Esitietolomake-Luna Mama web application, which connects to the database using cloud services. the methods used are: GET, POST, PUT and DELETE.
+
+![LmRestApi](https://user-images.githubusercontent.com/104793974/229746140-3314fbe0-e13d-493c-991e-0f943c6dccbe.JPG)
 
 ## Author ©
 
