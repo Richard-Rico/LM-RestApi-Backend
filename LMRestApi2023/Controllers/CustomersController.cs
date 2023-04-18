@@ -86,6 +86,7 @@ namespace LMRestApi2023.Controllers
                 db.Customers.Add(asiakas);
                 db.SaveChanges();
                 //return Created(".../api/customers", asiakas); <-- yksi tapa tämäkin
+                //sähkäpostin lähetys tässä.
                 return Ok($"Luotiin {asiakas.CompanyName}");
 
             }
